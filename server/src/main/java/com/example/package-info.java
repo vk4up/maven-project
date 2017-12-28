@@ -15,7 +15,6 @@
  * limitations under the License.
  */
 /**
- * 
  * @since 1.0
  */
 package com.example;
